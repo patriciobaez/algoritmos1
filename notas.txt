@@ -1,0 +1,900 @@
+113391, Física II, 9
+113391, Algoritmos y Programacion I, 0
+113391, Algoritmos y Programacion II, 1
+113391, Algoritmos y Programacion II, 9
+113391, AMII, 9
+113391, ALGII, 5
+113391, Física, 1
+113391, Química, 8
+113391, Teoría de Algoritmos I, 10
+73256, Física II, 2
+73256, Algoritmos y Programacion I, 4
+73256, Algoritmos y Programacion II, 3
+73256, Algoritmos y Programacion II, 9
+73256, AMII, 4
+73256, ALGII, 5
+73256, Física, 9
+73256, Química, 5
+73256, Teoría de Algoritmos I, 4
+85589, Física II, 4
+85589, Algoritmos y Programacion I, 4
+85589, Algoritmos y Programacion II, 10
+85589, Algoritmos y Programacion II, 10
+85589, AMII, 9
+85589, ALGII, 5
+85589, Física, 10
+85589, Química, 7
+85589, Teoría de Algoritmos I, 6
+108727, Física II, 7
+108727, Algoritmos y Programacion I, 3
+108727, Algoritmos y Programacion II, 8
+108727, Algoritmos y Programacion II, 10
+108727, AMII, 5
+108727, ALGII, 2
+108727, Física, 3
+108727, Química, 2
+108727, Teoría de Algoritmos I, 5
+112634, Física II, 10
+112634, Algoritmos y Programacion I, 4
+112634, Algoritmos y Programacion II, 9
+112634, Algoritmos y Programacion II, 10
+112634, AMII, 5
+112634, ALGII, 10
+112634, Física, 4
+112634, Química, 9
+112634, Teoría de Algoritmos I, 8
+91615, Física II, 4
+91615, Algoritmos y Programacion I, 6
+91615, Algoritmos y Programacion II, 4
+91615, Algoritmos y Programacion II, 6
+91615, AMII, 1
+91615, ALGII, 5
+91615, Física, 0
+91615, Química, 2
+91615, Teoría de Algoritmos I, 10
+100232, Física II, 5
+100232, Algoritmos y Programacion I, 0
+100232, Algoritmos y Programacion II, 2
+100232, Algoritmos y Programacion II, 6
+100232, AMII, 7
+100232, ALGII, 3
+100232, Física, 2
+100232, Química, 0
+100232, Teoría de Algoritmos I, 7
+111049, Física II, 6
+111049, Algoritmos y Programacion I, 1
+111049, Algoritmos y Programacion II, 9
+111049, Algoritmos y Programacion II, 6
+111049, AMII, 0
+111049, ALGII, 7
+111049, Física, 1
+111049, Química, 5
+111049, Teoría de Algoritmos I, 3
+74333, Física II, 5
+74333, Algoritmos y Programacion I, 8
+74333, Algoritmos y Programacion II, 5
+74333, Algoritmos y Programacion II, 0
+74333, AMII, 5
+74333, ALGII, 5
+74333, Física, 2
+74333, Química, 1
+74333, Teoría de Algoritmos I, 9
+97415, Física II, 9
+97415, Algoritmos y Programacion I, 3
+97415, Algoritmos y Programacion II, 4
+97415, Algoritmos y Programacion II, 7
+97415, AMII, 6
+97415, ALGII, 2
+97415, Física, 4
+97415, Química, 2
+97415, Teoría de Algoritmos I, 3
+83786, Física II, 7
+83786, Algoritmos y Programacion I, 3
+83786, Algoritmos y Programacion II, 9
+83786, Algoritmos y Programacion II, 9
+83786, AMII, 3
+83786, ALGII, 4
+83786, Física, 5
+83786, Química, 4
+83786, Teoría de Algoritmos I, 4
+82566, Física II, 6
+82566, Algoritmos y Programacion I, 4
+82566, Algoritmos y Programacion II, 7
+82566, Algoritmos y Programacion II, 5
+82566, AMII, 8
+82566, ALGII, 9
+82566, Física, 5
+82566, Química, 10
+82566, Teoría de Algoritmos I, 5
+105592, Física II, 2
+105592, Algoritmos y Programacion I, 1
+105592, Algoritmos y Programacion II, 10
+105592, Algoritmos y Programacion II, 9
+105592, AMII, 9
+105592, ALGII, 8
+105592, Física, 2
+105592, Química, 10
+105592, Teoría de Algoritmos I, 10
+115571, Física II, 7
+115571, Algoritmos y Programacion I, 3
+115571, Algoritmos y Programacion II, 4
+115571, Algoritmos y Programacion II, 8
+115571, AMII, 0
+115571, ALGII, 9
+115571, Física, 5
+115571, Química, 2
+115571, Teoría de Algoritmos I, 4
+81848, Física II, 3
+81848, Algoritmos y Programacion I, 1
+81848, Algoritmos y Programacion II, 5
+81848, Algoritmos y Programacion II, 9
+81848, AMII, 0
+81848, ALGII, 6
+81848, Física, 2
+81848, Química, 0
+81848, Teoría de Algoritmos I, 10
+85208, Física II, 10
+85208, Algoritmos y Programacion I, 9
+85208, Algoritmos y Programacion II, 2
+85208, Algoritmos y Programacion II, 5
+85208, AMII, 2
+85208, ALGII, 7
+85208, Física, 0
+85208, Química, 10
+85208, Teoría de Algoritmos I, 7
+119233, Física II, 8
+119233, Algoritmos y Programacion I, 5
+119233, Algoritmos y Programacion II, 1
+119233, Algoritmos y Programacion II, 7
+119233, AMII, 0
+119233, ALGII, 4
+119233, Física, 0
+119233, Química, 6
+119233, Teoría de Algoritmos I, 8
+80636, Física II, 0
+80636, Algoritmos y Programacion I, 1
+80636, Algoritmos y Programacion II, 3
+80636, Algoritmos y Programacion II, 9
+80636, AMII, 8
+80636, ALGII, 4
+80636, Física, 9
+80636, Química, 9
+80636, Teoría de Algoritmos I, 5
+79110, Física II, 1
+79110, Algoritmos y Programacion I, 7
+79110, Algoritmos y Programacion II, 3
+79110, Algoritmos y Programacion II, 9
+79110, AMII, 2
+79110, ALGII, 3
+79110, Física, 1
+79110, Química, 7
+79110, Teoría de Algoritmos I, 0
+91454, Física II, 2
+91454, Algoritmos y Programacion I, 4
+91454, Algoritmos y Programacion II, 10
+91454, Algoritmos y Programacion II, 1
+91454, AMII, 9
+91454, ALGII, 1
+91454, Física, 0
+91454, Química, 7
+91454, Teoría de Algoritmos I, 9
+96622, Física II, 7
+96622, Algoritmos y Programacion I, 1
+96622, Algoritmos y Programacion II, 7
+96622, Algoritmos y Programacion II, 3
+96622, AMII, 7
+96622, ALGII, 6
+96622, Física, 10
+96622, Química, 9
+96622, Teoría de Algoritmos I, 0
+104905, Física II, 7
+104905, Algoritmos y Programacion I, 6
+104905, Algoritmos y Programacion II, 0
+104905, Algoritmos y Programacion II, 1
+104905, AMII, 10
+104905, ALGII, 6
+104905, Física, 4
+104905, Química, 10
+104905, Teoría de Algoritmos I, 3
+75661, Física II, 2
+75661, Algoritmos y Programacion I, 10
+75661, Algoritmos y Programacion II, 7
+75661, Algoritmos y Programacion II, 4
+75661, AMII, 3
+75661, ALGII, 3
+75661, Física, 2
+75661, Química, 8
+75661, Teoría de Algoritmos I, 5
+90668, Física II, 9
+90668, Algoritmos y Programacion I, 9
+90668, Algoritmos y Programacion II, 9
+90668, Algoritmos y Programacion II, 10
+90668, AMII, 3
+90668, ALGII, 2
+90668, Física, 0
+90668, Química, 2
+90668, Teoría de Algoritmos I, 8
+81123, Física II, 9
+81123, Algoritmos y Programacion I, 5
+81123, Algoritmos y Programacion II, 9
+81123, Algoritmos y Programacion II, 10
+81123, AMII, 4
+81123, ALGII, 8
+81123, Física, 6
+81123, Química, 2
+81123, Teoría de Algoritmos I, 6
+98887, Física II, 9
+98887, Algoritmos y Programacion I, 7
+98887, Algoritmos y Programacion II, 8
+98887, Algoritmos y Programacion II, 6
+98887, AMII, 10
+98887, ALGII, 9
+98887, Física, 7
+98887, Química, 5
+98887, Teoría de Algoritmos I, 6
+75947, Física II, 10
+75947, Algoritmos y Programacion I, 4
+75947, Algoritmos y Programacion II, 9
+75947, Algoritmos y Programacion II, 2
+75947, AMII, 5
+75947, ALGII, 9
+75947, Física, 2
+75947, Química, 2
+75947, Teoría de Algoritmos I, 8
+99888, Física II, 2
+99888, Algoritmos y Programacion I, 1
+99888, Algoritmos y Programacion II, 0
+99888, Algoritmos y Programacion II, 5
+99888, AMII, 0
+99888, ALGII, 9
+99888, Física, 10
+99888, Química, 2
+99888, Teoría de Algoritmos I, 5
+111363, Física II, 7
+111363, Algoritmos y Programacion I, 9
+111363, Algoritmos y Programacion II, 6
+111363, Algoritmos y Programacion II, 2
+111363, AMII, 3
+111363, ALGII, 10
+111363, Física, 2
+111363, Química, 1
+111363, Teoría de Algoritmos I, 3
+78934, Física II, 4
+78934, Algoritmos y Programacion I, 0
+78934, Algoritmos y Programacion II, 0
+78934, Algoritmos y Programacion II, 2
+78934, AMII, 3
+78934, ALGII, 3
+78934, Física, 6
+78934, Química, 3
+78934, Teoría de Algoritmos I, 3
+93301, Física II, 4
+93301, Algoritmos y Programacion I, 3
+93301, Algoritmos y Programacion II, 7
+93301, Algoritmos y Programacion II, 2
+93301, AMII, 3
+93301, ALGII, 4
+93301, Física, 7
+93301, Química, 6
+93301, Teoría de Algoritmos I, 6
+111005, Física II, 7
+111005, Algoritmos y Programacion I, 7
+111005, Algoritmos y Programacion II, 0
+111005, Algoritmos y Programacion II, 6
+111005, AMII, 8
+111005, ALGII, 4
+111005, Física, 6
+111005, Química, 1
+111005, Teoría de Algoritmos I, 8
+98710, Física II, 9
+98710, Algoritmos y Programacion I, 2
+98710, Algoritmos y Programacion II, 7
+98710, Algoritmos y Programacion II, 2
+98710, AMII, 3
+98710, ALGII, 2
+98710, Física, 2
+98710, Química, 6
+98710, Teoría de Algoritmos I, 8
+119626, Física II, 0
+119626, Algoritmos y Programacion I, 9
+119626, Algoritmos y Programacion II, 5
+119626, Algoritmos y Programacion II, 1
+119626, AMII, 10
+119626, ALGII, 2
+119626, Física, 0
+119626, Química, 7
+119626, Teoría de Algoritmos I, 0
+100781, Física II, 4
+100781, Algoritmos y Programacion I, 10
+100781, Algoritmos y Programacion II, 4
+100781, Algoritmos y Programacion II, 0
+100781, AMII, 8
+100781, ALGII, 1
+100781, Física, 7
+100781, Química, 3
+100781, Teoría de Algoritmos I, 5
+76324, Física II, 6
+76324, Algoritmos y Programacion I, 8
+76324, Algoritmos y Programacion II, 5
+76324, Algoritmos y Programacion II, 0
+76324, AMII, 1
+76324, ALGII, 3
+76324, Física, 6
+76324, Química, 0
+76324, Teoría de Algoritmos I, 0
+118634, Física II, 2
+118634, Algoritmos y Programacion I, 0
+118634, Algoritmos y Programacion II, 10
+118634, Algoritmos y Programacion II, 2
+118634, AMII, 4
+118634, ALGII, 10
+118634, Física, 10
+118634, Química, 9
+118634, Teoría de Algoritmos I, 0
+119719, Física II, 7
+119719, Algoritmos y Programacion I, 1
+119719, Algoritmos y Programacion II, 7
+119719, Algoritmos y Programacion II, 6
+119719, AMII, 3
+119719, ALGII, 9
+119719, Física, 6
+119719, Química, 3
+119719, Teoría de Algoritmos I, 2
+79206, Física II, 8
+79206, Algoritmos y Programacion I, 8
+79206, Algoritmos y Programacion II, 3
+79206, Algoritmos y Programacion II, 1
+79206, AMII, 4
+79206, ALGII, 3
+79206, Física, 7
+79206, Química, 7
+79206, Teoría de Algoritmos I, 1
+81614, Física II, 2
+81614, Algoritmos y Programacion I, 6
+81614, Algoritmos y Programacion II, 4
+81614, Algoritmos y Programacion II, 0
+81614, AMII, 5
+81614, ALGII, 7
+81614, Física, 8
+81614, Química, 7
+81614, Teoría de Algoritmos I, 5
+92262, Física II, 5
+92262, Algoritmos y Programacion I, 0
+92262, Algoritmos y Programacion II, 9
+92262, Algoritmos y Programacion II, 3
+92262, AMII, 7
+92262, ALGII, 10
+92262, Física, 8
+92262, Química, 9
+92262, Teoría de Algoritmos I, 9
+91327, Física II, 10
+91327, Algoritmos y Programacion I, 0
+91327, Algoritmos y Programacion II, 0
+91327, Algoritmos y Programacion II, 5
+91327, AMII, 2
+91327, ALGII, 3
+91327, Física, 7
+91327, Química, 0
+91327, Teoría de Algoritmos I, 1
+80900, Física II, 0
+80900, Algoritmos y Programacion I, 4
+80900, Algoritmos y Programacion II, 8
+80900, Algoritmos y Programacion II, 10
+80900, AMII, 1
+80900, ALGII, 4
+80900, Física, 6
+80900, Química, 4
+80900, Teoría de Algoritmos I, 3
+82162, Física II, 4
+82162, Algoritmos y Programacion I, 2
+82162, Algoritmos y Programacion II, 6
+82162, Algoritmos y Programacion II, 9
+82162, AMII, 0
+82162, ALGII, 1
+82162, Física, 2
+82162, Química, 7
+82162, Teoría de Algoritmos I, 4
+104616, Física II, 1
+104616, Algoritmos y Programacion I, 5
+104616, Algoritmos y Programacion II, 6
+104616, Algoritmos y Programacion II, 10
+104616, AMII, 3
+104616, ALGII, 5
+104616, Física, 8
+104616, Química, 9
+104616, Teoría de Algoritmos I, 10
+88598, Física II, 1
+88598, Algoritmos y Programacion I, 3
+88598, Algoritmos y Programacion II, 7
+88598, Algoritmos y Programacion II, 0
+88598, AMII, 4
+88598, ALGII, 3
+88598, Física, 5
+88598, Química, 0
+88598, Teoría de Algoritmos I, 7
+79180, Física II, 9
+79180, Algoritmos y Programacion I, 1
+79180, Algoritmos y Programacion II, 7
+79180, Algoritmos y Programacion II, 4
+79180, AMII, 9
+79180, ALGII, 1
+79180, Física, 8
+79180, Química, 1
+79180, Teoría de Algoritmos I, 9
+107472, Física II, 9
+107472, Algoritmos y Programacion I, 10
+107472, Algoritmos y Programacion II, 2
+107472, Algoritmos y Programacion II, 2
+107472, AMII, 8
+107472, ALGII, 7
+107472, Física, 2
+107472, Química, 6
+107472, Teoría de Algoritmos I, 7
+72789, Física II, 3
+72789, Algoritmos y Programacion I, 5
+72789, Algoritmos y Programacion II, 9
+72789, Algoritmos y Programacion II, 2
+72789, AMII, 3
+72789, ALGII, 1
+72789, Física, 9
+72789, Química, 0
+72789, Teoría de Algoritmos I, 10
+84349, Física II, 10
+84349, Algoritmos y Programacion I, 8
+84349, Algoritmos y Programacion II, 8
+84349, Algoritmos y Programacion II, 10
+84349, AMII, 9
+84349, ALGII, 5
+84349, Física, 2
+84349, Química, 1
+84349, Teoría de Algoritmos I, 2
+111873, Física II, 9
+111873, Algoritmos y Programacion I, 9
+111873, Algoritmos y Programacion II, 0
+111873, Algoritmos y Programacion II, 5
+111873, AMII, 8
+111873, ALGII, 10
+111873, Física, 7
+111873, Química, 3
+111873, Teoría de Algoritmos I, 10
+118971, Física II, 1
+118971, Algoritmos y Programacion I, 1
+118971, Algoritmos y Programacion II, 5
+118971, Algoritmos y Programacion II, 3
+118971, AMII, 7
+118971, ALGII, 2
+118971, Física, 6
+118971, Química, 0
+118971, Teoría de Algoritmos I, 9
+117928, Física II, 5
+117928, Algoritmos y Programacion I, 4
+117928, Algoritmos y Programacion II, 1
+117928, Algoritmos y Programacion II, 6
+117928, AMII, 1
+117928, ALGII, 1
+117928, Física, 4
+117928, Química, 3
+117928, Teoría de Algoritmos I, 10
+89069, Física II, 10
+89069, Algoritmos y Programacion I, 8
+89069, Algoritmos y Programacion II, 8
+89069, Algoritmos y Programacion II, 2
+89069, AMII, 7
+89069, ALGII, 3
+89069, Física, 5
+89069, Química, 7
+89069, Teoría de Algoritmos I, 1
+72261, Física II, 8
+72261, Algoritmos y Programacion I, 8
+72261, Algoritmos y Programacion II, 6
+72261, Algoritmos y Programacion II, 8
+72261, AMII, 8
+72261, ALGII, 3
+72261, Física, 0
+72261, Química, 5
+72261, Teoría de Algoritmos I, 10
+79667, Física II, 2
+79667, Algoritmos y Programacion I, 1
+79667, Algoritmos y Programacion II, 1
+79667, Algoritmos y Programacion II, 4
+79667, AMII, 6
+79667, ALGII, 8
+79667, Física, 0
+79667, Química, 5
+79667, Teoría de Algoritmos I, 4
+75761, Física II, 2
+75761, Algoritmos y Programacion I, 8
+75761, Algoritmos y Programacion II, 6
+75761, Algoritmos y Programacion II, 8
+75761, AMII, 5
+75761, ALGII, 2
+75761, Física, 8
+75761, Química, 0
+75761, Teoría de Algoritmos I, 0
+82444, Física II, 4
+82444, Algoritmos y Programacion I, 2
+82444, Algoritmos y Programacion II, 3
+82444, Algoritmos y Programacion II, 3
+82444, AMII, 6
+82444, ALGII, 7
+82444, Física, 6
+82444, Química, 7
+82444, Teoría de Algoritmos I, 8
+116513, Física II, 6
+116513, Algoritmos y Programacion I, 7
+116513, Algoritmos y Programacion II, 0
+116513, Algoritmos y Programacion II, 4
+116513, AMII, 2
+116513, ALGII, 4
+116513, Física, 2
+116513, Química, 3
+116513, Teoría de Algoritmos I, 9
+82714, Física II, 2
+82714, Algoritmos y Programacion I, 3
+82714, Algoritmos y Programacion II, 5
+82714, Algoritmos y Programacion II, 8
+82714, AMII, 6
+82714, ALGII, 10
+82714, Física, 1
+82714, Química, 4
+82714, Teoría de Algoritmos I, 1
+92475, Física II, 4
+92475, Algoritmos y Programacion I, 9
+92475, Algoritmos y Programacion II, 5
+92475, Algoritmos y Programacion II, 0
+92475, AMII, 10
+92475, ALGII, 2
+92475, Física, 9
+92475, Química, 4
+92475, Teoría de Algoritmos I, 9
+71624, Física II, 2
+71624, Algoritmos y Programacion I, 8
+71624, Algoritmos y Programacion II, 3
+71624, Algoritmos y Programacion II, 10
+71624, AMII, 1
+71624, ALGII, 6
+71624, Física, 4
+71624, Química, 7
+71624, Teoría de Algoritmos I, 5
+84550, Física II, 6
+84550, Algoritmos y Programacion I, 6
+84550, Algoritmos y Programacion II, 5
+84550, Algoritmos y Programacion II, 2
+84550, AMII, 7
+84550, ALGII, 1
+84550, Física, 9
+84550, Química, 6
+84550, Teoría de Algoritmos I, 4
+90232, Física II, 10
+90232, Algoritmos y Programacion I, 5
+90232, Algoritmos y Programacion II, 0
+90232, Algoritmos y Programacion II, 9
+90232, AMII, 0
+90232, ALGII, 7
+90232, Física, 4
+90232, Química, 9
+90232, Teoría de Algoritmos I, 0
+83328, Física II, 3
+83328, Algoritmos y Programacion I, 9
+83328, Algoritmos y Programacion II, 9
+83328, Algoritmos y Programacion II, 4
+83328, AMII, 2
+83328, ALGII, 7
+83328, Física, 10
+83328, Química, 0
+83328, Teoría de Algoritmos I, 10
+74888, Física II, 9
+74888, Algoritmos y Programacion I, 4
+74888, Algoritmos y Programacion II, 5
+74888, Algoritmos y Programacion II, 8
+74888, AMII, 0
+74888, ALGII, 7
+74888, Física, 0
+74888, Química, 4
+74888, Teoría de Algoritmos I, 2
+70800, Física II, 1
+70800, Algoritmos y Programacion I, 0
+70800, Algoritmos y Programacion II, 9
+70800, Algoritmos y Programacion II, 10
+70800, AMII, 8
+70800, ALGII, 4
+70800, Física, 9
+70800, Química, 0
+70800, Teoría de Algoritmos I, 8
+79917, Física II, 8
+79917, Algoritmos y Programacion I, 0
+79917, Algoritmos y Programacion II, 6
+79917, Algoritmos y Programacion II, 7
+79917, AMII, 9
+79917, ALGII, 7
+79917, Física, 1
+79917, Química, 4
+79917, Teoría de Algoritmos I, 1
+81623, Física II, 9
+81623, Algoritmos y Programacion I, 0
+81623, Algoritmos y Programacion II, 6
+81623, Algoritmos y Programacion II, 9
+81623, AMII, 7
+81623, ALGII, 10
+81623, Física, 8
+81623, Química, 5
+81623, Teoría de Algoritmos I, 3
+81252, Física II, 3
+81252, Algoritmos y Programacion I, 1
+81252, Algoritmos y Programacion II, 10
+81252, Algoritmos y Programacion II, 0
+81252, AMII, 0
+81252, ALGII, 4
+81252, Física, 2
+81252, Química, 3
+81252, Teoría de Algoritmos I, 6
+74798, Física II, 1
+74798, Algoritmos y Programacion I, 8
+74798, Algoritmos y Programacion II, 1
+74798, Algoritmos y Programacion II, 2
+74798, AMII, 6
+74798, ALGII, 3
+74798, Física, 1
+74798, Química, 7
+74798, Teoría de Algoritmos I, 8
+98656, Física II, 0
+98656, Algoritmos y Programacion I, 0
+98656, Algoritmos y Programacion II, 5
+98656, Algoritmos y Programacion II, 0
+98656, AMII, 2
+98656, ALGII, 0
+98656, Física, 1
+98656, Química, 1
+98656, Teoría de Algoritmos I, 5
+87856, Física II, 7
+87856, Algoritmos y Programacion I, 3
+87856, Algoritmos y Programacion II, 4
+87856, Algoritmos y Programacion II, 5
+87856, AMII, 4
+87856, ALGII, 4
+87856, Física, 2
+87856, Química, 1
+87856, Teoría de Algoritmos I, 4
+117025, Física II, 2
+117025, Algoritmos y Programacion I, 3
+117025, Algoritmos y Programacion II, 8
+117025, Algoritmos y Programacion II, 4
+117025, AMII, 8
+117025, ALGII, 5
+117025, Física, 9
+117025, Química, 4
+117025, Teoría de Algoritmos I, 5
+95082, Física II, 10
+95082, Algoritmos y Programacion I, 1
+95082, Algoritmos y Programacion II, 6
+95082, Algoritmos y Programacion II, 2
+95082, AMII, 9
+95082, ALGII, 10
+95082, Física, 0
+95082, Química, 10
+95082, Teoría de Algoritmos I, 7
+76000, Física II, 7
+76000, Algoritmos y Programacion I, 8
+76000, Algoritmos y Programacion II, 5
+76000, Algoritmos y Programacion II, 10
+76000, AMII, 3
+76000, ALGII, 2
+76000, Física, 4
+76000, Química, 1
+76000, Teoría de Algoritmos I, 6
+103059, Física II, 6
+103059, Algoritmos y Programacion I, 3
+103059, Algoritmos y Programacion II, 8
+103059, Algoritmos y Programacion II, 2
+103059, AMII, 5
+103059, ALGII, 10
+103059, Física, 10
+103059, Química, 6
+103059, Teoría de Algoritmos I, 10
+96047, Física II, 3
+96047, Algoritmos y Programacion I, 9
+96047, Algoritmos y Programacion II, 0
+96047, Algoritmos y Programacion II, 4
+96047, AMII, 2
+96047, ALGII, 3
+96047, Física, 10
+96047, Química, 3
+96047, Teoría de Algoritmos I, 7
+78604, Física II, 0
+78604, Algoritmos y Programacion I, 5
+78604, Algoritmos y Programacion II, 0
+78604, Algoritmos y Programacion II, 5
+78604, AMII, 3
+78604, ALGII, 7
+78604, Física, 10
+78604, Química, 8
+78604, Teoría de Algoritmos I, 2
+79355, Física II, 10
+79355, Algoritmos y Programacion I, 3
+79355, Algoritmos y Programacion II, 10
+79355, Algoritmos y Programacion II, 3
+79355, AMII, 9
+79355, ALGII, 7
+79355, Física, 2
+79355, Química, 2
+79355, Teoría de Algoritmos I, 1
+70506, Física II, 4
+70506, Algoritmos y Programacion I, 10
+70506, Algoritmos y Programacion II, 10
+70506, Algoritmos y Programacion II, 6
+70506, AMII, 2
+70506, ALGII, 9
+70506, Física, 9
+70506, Química, 7
+70506, Teoría de Algoritmos I, 7
+96609, Física II, 4
+96609, Algoritmos y Programacion I, 10
+96609, Algoritmos y Programacion II, 6
+96609, Algoritmos y Programacion II, 3
+96609, AMII, 7
+96609, ALGII, 1
+96609, Física, 4
+96609, Química, 9
+96609, Teoría de Algoritmos I, 2
+98444, Física II, 0
+98444, Algoritmos y Programacion I, 3
+98444, Algoritmos y Programacion II, 5
+98444, Algoritmos y Programacion II, 5
+98444, AMII, 3
+98444, ALGII, 7
+98444, Física, 6
+98444, Química, 4
+98444, Teoría de Algoritmos I, 6
+91126, Física II, 4
+91126, Algoritmos y Programacion I, 6
+91126, Algoritmos y Programacion II, 7
+91126, Algoritmos y Programacion II, 1
+91126, AMII, 7
+91126, ALGII, 2
+91126, Física, 8
+91126, Química, 8
+91126, Teoría de Algoritmos I, 5
+97397, Física II, 3
+97397, Algoritmos y Programacion I, 9
+97397, Algoritmos y Programacion II, 3
+97397, Algoritmos y Programacion II, 7
+97397, AMII, 3
+97397, ALGII, 2
+97397, Física, 4
+97397, Química, 10
+97397, Teoría de Algoritmos I, 7
+95571, Física II, 9
+95571, Algoritmos y Programacion I, 7
+95571, Algoritmos y Programacion II, 5
+95571, Algoritmos y Programacion II, 1
+95571, AMII, 3
+95571, ALGII, 6
+95571, Física, 5
+95571, Química, 8
+95571, Teoría de Algoritmos I, 0
+117815, Física II, 2
+117815, Algoritmos y Programacion I, 0
+117815, Algoritmos y Programacion II, 9
+117815, Algoritmos y Programacion II, 8
+117815, AMII, 5
+117815, ALGII, 7
+117815, Física, 9
+117815, Química, 5
+117815, Teoría de Algoritmos I, 3
+115644, Física II, 10
+115644, Algoritmos y Programacion I, 2
+115644, Algoritmos y Programacion II, 0
+115644, Algoritmos y Programacion II, 4
+115644, AMII, 4
+115644, ALGII, 3
+115644, Física, 5
+115644, Química, 6
+115644, Teoría de Algoritmos I, 1
+84312, Física II, 8
+84312, Algoritmos y Programacion I, 6
+84312, Algoritmos y Programacion II, 5
+84312, Algoritmos y Programacion II, 10
+84312, AMII, 8
+84312, ALGII, 6
+84312, Física, 1
+84312, Química, 5
+84312, Teoría de Algoritmos I, 9
+90751, Física II, 5
+90751, Algoritmos y Programacion I, 10
+90751, Algoritmos y Programacion II, 4
+90751, Algoritmos y Programacion II, 4
+90751, AMII, 8
+90751, ALGII, 9
+90751, Física, 10
+90751, Química, 0
+90751, Teoría de Algoritmos I, 0
+108362, Física II, 4
+108362, Algoritmos y Programacion I, 6
+108362, Algoritmos y Programacion II, 3
+108362, Algoritmos y Programacion II, 3
+108362, AMII, 9
+108362, ALGII, 3
+108362, Física, 1
+108362, Química, 8
+108362, Teoría de Algoritmos I, 5
+117223, Física II, 8
+117223, Algoritmos y Programacion I, 10
+117223, Algoritmos y Programacion II, 10
+117223, Algoritmos y Programacion II, 8
+117223, AMII, 2
+117223, ALGII, 10
+117223, Física, 9
+117223, Química, 4
+117223, Teoría de Algoritmos I, 7
+105296, Física II, 10
+105296, Algoritmos y Programacion I, 9
+105296, Algoritmos y Programacion II, 8
+105296, Algoritmos y Programacion II, 3
+105296, AMII, 5
+105296, ALGII, 4
+105296, Física, 3
+105296, Química, 1
+105296, Teoría de Algoritmos I, 1
+105604, Física II, 8
+105604, Algoritmos y Programacion I, 3
+105604, Algoritmos y Programacion II, 2
+105604, Algoritmos y Programacion II, 9
+105604, AMII, 8
+105604, ALGII, 5
+105604, Física, 1
+105604, Química, 8
+105604, Teoría de Algoritmos I, 2
+110806, Física II, 5
+110806, Algoritmos y Programacion I, 1
+110806, Algoritmos y Programacion II, 1
+110806, Algoritmos y Programacion II, 0
+110806, AMII, 1
+110806, ALGII, 0
+110806, Física, 3
+110806, Química, 1
+110806, Teoría de Algoritmos I, 8
+75353, Física II, 7
+75353, Algoritmos y Programacion I, 1
+75353, Algoritmos y Programacion II, 8
+75353, Algoritmos y Programacion II, 9
+75353, AMII, 5
+75353, ALGII, 3
+75353, Física, 7
+75353, Química, 8
+75353, Teoría de Algoritmos I, 8
+74702, Física II, 0
+74702, Algoritmos y Programacion I, 4
+74702, Algoritmos y Programacion II, 8
+74702, Algoritmos y Programacion II, 2
+74702, AMII, 3
+74702, ALGII, 6
+74702, Física, 4
+74702, Química, 4
+74702, Teoría de Algoritmos I, 6
+78800, Física II, 3
+78800, Algoritmos y Programacion I, 3
+78800, Algoritmos y Programacion II, 9
+78800, Algoritmos y Programacion II, 9
+78800, AMII, 5
+78800, ALGII, 3
+78800, Física, 10
+78800, Química, 3
+78800, Teoría de Algoritmos I, 6
+72481, Física II, 2
+72481, Algoritmos y Programacion I, 8
+72481, Algoritmos y Programacion II, 9
+72481, Algoritmos y Programacion II, 5
+72481, AMII, 4
+72481, ALGII, 7
+72481, Física, 1
+72481, Química, 8
+72481, Teoría de Algoritmos I, 7
+81501, Física II, 1
+81501, Algoritmos y Programacion I, 7
+81501, Algoritmos y Programacion II, 7
+81501, Algoritmos y Programacion II, 5
+81501, AMII, 7
+81501, ALGII, 1
+81501, Física, 9
+81501, Química, 2
+81501, Teoría de Algoritmos I, 1
